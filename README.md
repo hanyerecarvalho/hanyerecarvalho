@@ -32,12 +32,15 @@ Desenvolvedor Full Stack em formação, cursando Técnico em Informática na UNI
 📌 Projetos
 
 🚚 API Delivery
+
 API REST desenvolvida em PHP + Slim Framework utilizando arquitetura MVC.
 
 💰 TipNow
+
 Calculadora de gorjetas desenvolvida em PHP.
 
 🌐 Sistema Web
+
 Sistema utilizando HTML, CSS, Bootstrap e PHP.
 
 
