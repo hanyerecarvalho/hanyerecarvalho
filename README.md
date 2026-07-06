@@ -26,7 +26,8 @@
 
 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/hanyerecarvalho/)
-[Email](hanyerecarvalho@gmail.com)
+
+Email hanyerecarvalho@gmail.com
 
 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanyerecarvalho&show_icons=true&theme=tokyonight)
