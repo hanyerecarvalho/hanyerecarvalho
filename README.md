@@ -1,5 +1,4 @@
 # 👋 Olá! Eu sou o Hanyere
-![](https://komarev.com/ghpvc/?username=hanyerecarvalho&color=blue)
 
 💻 Técnico em Informática na UNIVAP
 
