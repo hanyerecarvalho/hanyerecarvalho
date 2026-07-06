@@ -6,7 +6,8 @@
 
 📍 São José dos Campos - SP
 
-Desenvolvo aplicações web, softwares, APIs REST e soluções utilizando PHP, Python, C#, HTML, CSS, Bootstrap e MySQL.
+Desenvolvedor Full Stack em formação, cursando Técnico em Informática na UNIVAP. Tenho experiência no desenvolvimento de aplicações web, APIs REST, bancos de dados relacionais e arquitetura MVC, utilizando PHP, Python, C#, HTML, CSS, Bootstrap e MySQL.
+
 
 ## 🚀 Tecnologias
 
@@ -27,6 +28,7 @@ Desenvolvo aplicações web, softwares, APIs REST e soluções utilizando PHP, P
 • Banco de Dados
 • C# .NET
 
+
 📌 Projetos
 
 🚚 API Delivery
@@ -37,6 +39,8 @@ Calculadora de gorjetas desenvolvida em PHP.
 
 🌐 Sistema Web
 Sistema utilizando HTML, CSS, Bootstrap e PHP.
+
+
 
 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/hanyerecarvalho/)
