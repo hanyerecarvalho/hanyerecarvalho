@@ -1,8 +1,12 @@
-👋 Olá! Eu sou o Hanyere
+# 👋 Olá! Eu sou o Hanyere
 
-💻 Estou no Segundo ano do Técnico em Informática no Colégio UNIVAP
+💻 Técnico em Informática na UNIVAP
 
-🚀 Developer
+🚀 Full Stack Developer
+
+📍 São José dos Campos - SP
+
+Desenvolvo aplicações web, softwares, APIs REST e soluções utilizando PHP, Python, C#, HTML, CSS, Bootstrap e MySQL.
 
 ## 🚀 Tecnologias
 
@@ -25,17 +29,14 @@
 
 📌 Projetos
 🚚 API Delivery
+API REST desenvolvida em PHP + Slim Framework utilizando arquitetura MVC.
+
 💰 TipNow
+Calculadora de gorjetas desenvolvida em PHP.
+
 🌐 Sistema Web
+Sistema utilizando HTML, CSS, Bootstrap e PHP.
 
 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/hanyerecarvalho/)
-
-Email hanyerecarvalho@gmail.com
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hanyerecarvalho&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyerecarvalho&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+hanyerecarvalho@gmail.com
