@@ -28,6 +28,7 @@ Desenvolvo aplicações web, softwares, APIs REST e soluções utilizando PHP, P
 • C# .NET
 
 📌 Projetos
+
 🚚 API Delivery
 API REST desenvolvida em PHP + Slim Framework utilizando arquitetura MVC.
 
