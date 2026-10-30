@@ -19,11 +19,12 @@ Desenvolvo projetos acadêmicos e aplicações para praticar desenvolvimento web
 | Projeto | O que você encontra |
 | --- | --- |
 | [Delivery API](https://github.com/hanyerecarvalho/deliveryApi) | API em PHP com Slim 4, PHP-DI e MySQL para clientes, restaurantes, produtos e pedidos. |
-| [Planetary View 3D](https://github.com/hanyerecarvalho/Projeto-FeiraTecnica2Ano) | Exploração da Terra em 3D com JavaScript, Three.js e back-end em PHP para consulta de cidades e clima. |
+| [Delivery API JS](https://github.com/hanyerecarvalho/apiDelivery-Js) | API em JS com Node.JS, Express e MySQL para clientes, restaurantes e pedidos. |
+| [Delivery API Python](https://github.com/hanyerecarvalho/apiDelivery-Flask) | API em Python com Flask e MySQL para clientes, restaurantes e pedidos. |
+| [Planetary View 3D](https://github.com/hanyerecarvalho/Projeto-FeiraTecnica2Ano) | Exploração da Terra em 3D com JavaScript, Three.js e back-end em PHP para consulta de cidades e clima. Feira Técnica|
 | [TipNow](https://github.com/hanyerecarvalho/TipNow) | Calculadora de gorjetas e divisão de contas com PHP e Slim. |
 | [Sistema Web de Cálculos](https://github.com/hanyerecarvalho/sistemaWeb) | Exercícios de IMC, médias escolares, estoque e salário em uma interface web. |
 | [Jogo da Feira Técnica](https://github.com/hanyerecarvalho/Jogo-Feira-T-cnica) | Repositório derivado de um projeto colaborativo de jogo de zumbis em Unity e C#. |
-| [Delivery API em JavaScript](https://github.com/hanyerecarvalho/apiDelivery-Js) | Proposta acadêmica de API REST; implementação ainda não publicada no repositório. |
 
 ## Atualmente estudando
 
