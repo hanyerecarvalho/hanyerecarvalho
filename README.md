@@ -9,10 +9,11 @@ Desenvolvo projetos acadêmicos e aplicações para praticar desenvolvimento web
 
 | Área | Tecnologias |
 | --- | --- |
-| Back-end | PHP, Python e C# |
+| Back-end | PHP, JavaScript, Python e C# |
 | Front-end | HTML, CSS, JavaScript e Bootstrap |
 | Dados | SQL e MySQL |
-| Ferramentas e conceitos | Git, GitHub, Slim Framework e arquitetura MVC |
+| Ferramentas | Git, GitHub, Slim Framework e arquitetura MVC |
+| Frameworks | Slim PHP, Flask Py, THREE.JS e ASP.NET C# |
 
 ## Projetos em destaque
 
